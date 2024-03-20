@@ -1,6 +1,6 @@
 git tag
 git tag v2.0
-git tag -a v3.0 -m "the massage here"
+git tag -a v3.0 -m "the massage here" (for anodited tag)
 git push origin v2.0
 git tag -d v2.0
 gti push --delete v2.0
